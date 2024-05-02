@@ -27,12 +27,22 @@ As with all predictive models, there must be a robust data set which we can prep
 
 **Data Source:**
 Yahoo Finance URL for Bitcoin Data: Yahoo Finance - BTC-USD
+
 Yahoo Finance URL for Chainlink Data: Yahoo Finance - LINK-USD
+
 Data Coverage:  This webpage provides options to download the historical data for various time frames, which in this case we will be working with daily data from January 1st 2018, to April 23rd 2024. 
+
 Available Features: The dataset includes the following features:
+
 Open - The price of Bitcoin at the beginning of the day
+
 High - The highest price of Bitcoin during the day
+
 Low - The lowest price of Bitcoin during the day
+
 Close - The price of Bitcoin at the end of the day
+
 Adjusted Close - The adjusted closing price which considered any corporate actions. Approximately the same as the closing.
+
 Volume - The total volume of Bitcoin traded during the day.
+
