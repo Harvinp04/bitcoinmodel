@@ -26,6 +26,7 @@ We will use a LSTM model, as it is specifically designed to work with sequences 
 As with all predictive models, there must be a robust data set which we can preprocess to have it ready for developing a model. The dataset used for this project has been sourced from Yahoo Finance, which is a reputable financial news and data provider. 
 
 **Data Source:**
+
 Yahoo Finance URL for Bitcoin Data: Yahoo Finance - BTC-USD
 
 Yahoo Finance URL for Chainlink Data: Yahoo Finance - LINK-USD
